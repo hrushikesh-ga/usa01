@@ -1,4 +1,6 @@
+var pass = prompt("Enter The Password");
 
+if (pass == "5293"){
 
 var mailapi = "https://script.googleusercontent.com/a/macros/gopalsakariya.com/echo?user_content_key=7xKkjEN76Ue76qb86MEYIVDtcOljmxmVtQNG2FAiD1gUI0FXAJzwMF_7TMBDNhlGQVjrSkuvUpl075jZJl773oxO0fwtQ0ZPOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMi80zadyHLKBea3QBykmnAOYSZb9sATkSjnFAkueCBXhqsc4chCyCPJ44B5rbI6n7LFGEHIxrSbdALtYNjoahoGj__GxXsXftno6EKWRBP5sbOTd-AI3AVu3bY-RIrJYjLvHOkhuOJPXyn1Z4YyOlLg&lib=MWbi6ILmrnPBEEYGLTEDkFlMrCbqRHED-";
 
@@ -101,5 +103,7 @@ function SearchCityNames(){
 
 }
 
-
+)else{
+ location.replace("https://usa01.gopal.ga/404.html") 
+}
 
