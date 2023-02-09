@@ -103,7 +103,7 @@ function SearchCityNames(){
 
 }
 
-)else{
+}else{
  location.replace("https://usa01.gopal.ga/404.html") 
 }
 
