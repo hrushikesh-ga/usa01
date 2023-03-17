@@ -104,6 +104,6 @@ function SearchCityNames(){
 }
 
 }else{
- location.replace("https://usa01.gopal.ga/404.html") 
+ location.replace("https://gopalsakariya.github.io/usa01/404.html") 
 }
 
